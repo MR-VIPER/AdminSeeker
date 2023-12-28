@@ -19,3 +19,4 @@ TUTORIAL:
 3. Give executable permission by command " chmod +x adminseeker.py".
 4. Put Target url.
 
+https://github.com/MR-VIPER/AdminSeeker/assets/117844739/4a29e54a-cde4-4bb1-a3c7-a05d9fce11e4
