@@ -8,7 +8,14 @@ NOTE: If you have better keywords you may add them in the existing word list.
 Enjoy!!!
 
 *Clone Command:*
-git clone 
+git clone https://github.com/MR-VIPER/AdminSeeker.git
 
+*Run Command:*
+python3 adminseeker.py
 
-https://github.com/MR-VIPER/AdminSeeker/issues/1#issue-2058339698
+TUTORIAL:
+1. Clone the tool.
+2. Get into AdminSeeker directory by command " cd AdminSeeker".
+3. Give executable permission by command " chmod +x adminseeker.py".
+4. Put Target url.
+
