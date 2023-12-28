@@ -6,3 +6,9 @@ A tool with a huge word list to find admin panel of a website.
 NOTE: If you have better keywords you may add them in the existing word list.
 
 Enjoy!!!
+
+*Clone Command:*
+git clone 
+
+
+https://github.com/MR-VIPER/AdminSeeker/issues/1#issue-2058339698
